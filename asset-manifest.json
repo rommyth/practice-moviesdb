@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/practice-moviesdb/static/css/main.4c540fde.css",
-    "main.js": "/practice-moviesdb/static/js/main.168e161b.js",
+    "main.js": "/practice-moviesdb/static/js/main.88569909.js",
     "static/media/login-background.jpg": "/practice-moviesdb/static/media/login-background.05b1a1b3088cbb458939.jpg",
     "static/media/home-background.png": "/practice-moviesdb/static/media/home-background.a0c4bdd961442f1bc8b1.png",
     "static/media/slider-badag.jpg": "/practice-moviesdb/static/media/slider-badag.36599446c404fd8b5989.jpg",
     "static/media/slider-badging.jpg": "/practice-moviesdb/static/media/slider-badging.b33dd5b6b1aab9795814.jpg",
     "static/media/viewers-starwars.png": "/practice-moviesdb/static/media/viewers-starwars.3fb2e20c0faee83d89db.png",
+    "static/media/low-profile.jpg": "/practice-moviesdb/static/media/low-profile.918b1c009a76650b44e2.jpg",
     "static/media/cta-logo-two.png": "/practice-moviesdb/static/media/cta-logo-two.e69ae55254630c715843.png",
     "static/media/viewers-disney.png": "/practice-moviesdb/static/media/viewers-disney.eb5bab59e7bf29389dc7.png",
     "static/media/viewers-national.png": "/practice-moviesdb/static/media/viewers-national.c50dd65f4a3d07a590f7.png",
@@ -24,10 +25,10 @@
     "static/media/original-icon.svg": "/practice-moviesdb/static/media/original-icon.d7752d89e5a5d2b6276338bea45f413b.svg",
     "static/media/home-icon.svg": "/practice-moviesdb/static/media/home-icon.b6a11f9b406f2f13cd82608a276428e5.svg",
     "main.4c540fde.css.map": "/practice-moviesdb/static/css/main.4c540fde.css.map",
-    "main.168e161b.js.map": "/practice-moviesdb/static/js/main.168e161b.js.map"
+    "main.88569909.js.map": "/practice-moviesdb/static/js/main.88569909.js.map"
   },
   "entrypoints": [
     "static/css/main.4c540fde.css",
-    "static/js/main.168e161b.js"
+    "static/js/main.88569909.js"
   ]
 }
