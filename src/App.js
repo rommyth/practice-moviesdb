@@ -17,9 +17,9 @@ function App() {
       <BrowserRouter>
         <Header />
         <Routes>
-          <Route path="/practice-movies" element={<Home />} />
-          <Route path="/practice-movies/detail/:id" element={<Detail />} />
-          <Route path="/practice-movies/login" element={<Login />} />
+          <Route path="/practice-moviesdb" element={<Home />} />
+          <Route path="/practice-moviesdb/detail/:id" element={<Detail />} />
+          <Route path="/practice-moviesdb/login" element={<Login />} />
         </Routes>
       </BrowserRouter>
     </div>
