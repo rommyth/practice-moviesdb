@@ -10,7 +10,7 @@ const Movies = (movie) => {
         <Container>
             <Content>
                 <Wrap>
-                    <Link to={`/practice-moviesdb/detail/${movie.info.id}`}>
+                    <Link to={`/practice-movie/detail/${movie.info.id}`}>
                         <img src={IMG_API + movie.info.poster_path} />
                     </Link>
                 </Wrap>

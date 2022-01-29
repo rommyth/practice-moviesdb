@@ -13,7 +13,7 @@ function Header() {
         <Nav>
             <Logo src={logo} />
             <NavMenu>
-                <a href="/practice-moviesdb">
+                <a href="/practice-movie">
                     <img src={homeIcon} />
                     <span>HOME</span>
                 </a>
@@ -38,7 +38,7 @@ function Header() {
                     <span>SERIES</span>
                 </a>
             </NavMenu>
-            <a href="/practice-moviesdb/login"><UserImg src="https://cdn.dribbble.com/users/9315499/avatars/normal/344d6ef2ea496557ea9cced74d5a3703.jpg?1632875872" /></a>
+            <a href="/practice-movie/user"><UserImg src="https://cdn.dribbble.com/users/9315499/avatars/normal/344d6ef2ea496557ea9cced74d5a3703.jpg?1632875872" /></a>
         </Nav>
     )
 }
