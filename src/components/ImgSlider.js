@@ -3,6 +3,9 @@ import styled from 'styled-components'
 import Slider from 'react-slick'
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
+import crsImg1 from '../images/slider-badging.jpg'
+import crsImg2 from '../images/slider-badag.jpg'
+
 
 function ImgSlider() {
 
@@ -17,10 +20,10 @@ function ImgSlider() {
     return (
         <Carousel {...settings}>
             <Wrap>
-                <img src={require("../images/slider-badging.jpg")} />
+                <img src={crsImg1} />
             </Wrap>
             <Wrap>
-                <img src={require("../images/slider-badag.jpg")} />
+                <img src={crsImg2} />
             </Wrap>
         </Carousel>
     )
